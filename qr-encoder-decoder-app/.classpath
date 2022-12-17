@@ -6,5 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Downloads/QR_Lib/qrgen-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Downloads/QR_Lib/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Downloads/QR_Lib/zxing-j2se-1.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
